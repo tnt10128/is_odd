@@ -1,6 +1,9 @@
 # 🔢 is_odd
 Use advanced AI supercomputer algorithms to detect whether a number is odd
 
+![GNU GPL v3](https://img.shields.io/github/license/tnt10128/is_odd?style=for-the-badge)
+![Codefactor code quality](https://img.shields.io/codefactor/grade/github/tnt10128/is_odd?style=for-the-badge)
+
 > **Note:** This whole repository is a joke. Absolutely nothing here is true.
 
 ## ℹ️ Description
