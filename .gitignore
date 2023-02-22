@@ -37,3 +37,6 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 REBASE.bat
+
+# Visual Studio Code
+.vscode
